@@ -1,0 +1,2 @@
+# Customer-Segmentation-Engine--Analysis-on-Customer-Behavior-and-Associated-Marketing-Strategies
+Here, I am going to identify and divide the different kinds of customers entering into a mall. Using multiple techniques like KMeans Clustering Analysis &amp; libraries like Numpy for mathematical operations, Panda for dataframe manipulation MATPLOT, Seaborn for Visualizing the data and performing division of customers into different groups will help businesses to target potential customers, with more efficiency !
